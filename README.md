@@ -10,7 +10,16 @@ A private college dashboard: assignments, calendar, to-dos, contacts, and daily 
 2. Tap **Share**, then **Add to Home Screen**, then **Add**.
 3. Open **Semester** from the Home Screen. It runs full-screen and works offline.
 
-Everything you enter stays on your phone. Nothing is sent anywhere. Use **Back up** on the Home screen now and then to save a copy to Files or iCloud Drive.
+Everything you enter stays on your phone. Nothing is sent anywhere. Use **Back up** on the Home screen now and then to save a copy to Google Drive, OneDrive or iCloud Drive.
+
+## Google & Microsoft
+
+There's no sign-in. Semester opens your Google and Microsoft 365 apps with the details already filled in. Choose which apps under **Settings → Google & Microsoft**.
+
+- **Deadlines:** open an assignment and tap **Add to Google Calendar** (or Outlook). **Calendar → Export deadlines** saves every upcoming deadline as one calendar file.
+- **Email:** the mail button on a contact opens Gmail, Outlook or the phone's mail app.
+- **Tasks:** the share button on a to-do sends it to Microsoft To Do, Reminders or any other task app on the phone.
+- **Shortcuts:** the Google & Microsoft card on Home links to Gmail, Calendar, Tasks, Drive, Outlook, To Do and OneDrive.
 
 ## Updating
 

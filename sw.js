@@ -1,6 +1,6 @@
 // Offline support: keep the app's own files (and its fonts) cached so it opens with no signal.
 // Bump CACHE whenever the app files change so phones drop the old copy.
-const CACHE = "semester-v1";
+const CACHE = "semester-v2";
 const SHELL = [
   "./", "index.html", "styles.css", "app.js", "manifest.webmanifest",
   "icons/icon-32.png", "icons/icon-180.png", "icons/icon-192.png", "icons/icon-512.png",
